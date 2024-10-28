@@ -1,1 +1,2 @@
-# bitirme-projesi
+## Projemin fikri:
+>
